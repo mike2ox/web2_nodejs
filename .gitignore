@@ -1,0 +1,17 @@
+node_modules/
+
+logs
+*.logs
+npm-debug.log*
+pids
+*.pids
+*.seed
+*.pid.lock
+
+lib-cov
+
+coverage
+
+.npm
+.env
+.next
